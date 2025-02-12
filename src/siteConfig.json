@@ -1,0 +1,40 @@
+{
+  "name": "Nagendra R",
+  "bio": "None",
+  "profilePicture": "/profile-picture.jpg",
+  "url": "https://nx2k3.top",
+  "blog": false,
+  "iconLinks": [
+    {
+      "id": "1728534577184",
+      "icon": "link",
+      "url": "nx2k3@duck.com"
+    },
+    {
+      "id": "1728534577185",
+      "icon": "email",
+      "url": "mailto:nx2k3@duck.com"
+    },
+    {
+      "id": "1728534577186",
+      "icon": "github",
+      "url": "https://github.com/nx2k3"
+    },
+    {
+      "id": "1739352073199",
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/nx2k3/"
+    },
+    {
+      "id": "1739352095018",
+      "icon": "mastodon",
+      "url": "https://mas.to/@nx2k3"
+    },
+    {
+      "id": "1739352123450",
+      "icon": "reddit",
+      "url": "https://www.reddit.com/user/nx2k3/"
+    }
+  ],
+  "customLinks": []
+}
