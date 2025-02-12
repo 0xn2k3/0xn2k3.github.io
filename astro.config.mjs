@@ -9,6 +9,7 @@ export default defineConfig({
   redirects: {
     "/blog": "/",
   },
-  site: "https://example.treelink.com",
+  site: 'https://nx2k3.github.io',
+  base: '',
   integrations: [tailwind(), sitemap(), icon()],
 });
