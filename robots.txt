@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.treelink.com/sitemap-index.xml
+Sitemap: https://nx2k3.github.io/sitemap-index.xml
